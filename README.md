@@ -1,4 +1,10 @@
-### Hi there 👋
+| Hi there!                  | I'm Timothy Merritt |
+:-------------------------:|:-------------------------:
+| <img src="https://timmybytes.com/img/avatar_eyebrow.png" alt="alt text" min-width="200px" min-height="200px"> | A developer, writer, and musician. I'm passionate about development and design, open source, comic books, *NIX-like operating systems, loud music, accessibility, mutual aid, equity, and caffeine. |
+
+Languages             |  Stats
+:-------------------------:|:-------------------------:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmybytes&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  |  ![timmybytes's github stats](https://github-readme-stats.vercel.app/api?username=timmybytes&show_icons=true&theme=onedark )
 
 <!--
 **timmybytes/timmybytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
