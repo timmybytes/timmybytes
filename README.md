@@ -1,6 +1,6 @@
-| Hi there!                  | I'm Timothy Merritt |
-:-------------------------:|:-------------------------:
-| <img src="https://timmybytes.com/img/avatar_eyebrow.png" alt="alt text" min-width="200px" min-height="200px"> | A developer, writer, and musician. I'm passionate about development and design, open source, comic books, *NIX-like operating systems, loud music, accessibility, mutual aid, equity, and caffeine. |
+# Hi there!
+
+I'm Timothy Merritt a developer, writer, and musician. I'm passionate about development and design, open source, comic books, *NIX-like operating systems, loud music, accessibility, mutual aid, equity, and caffeine.
 
 Languages             |  Stats
 :-------------------------:|:-------------------------:
@@ -8,7 +8,7 @@ Languages             |  Stats
 
 <!--
 **timmybytes/timmybytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://timmybytes.com/img/avatar_eyebrow.png" alt="alt text" min-width="200px" min-height="200px">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
