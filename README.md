@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm Timothy Merritt a developer, writer, and musician. I'm passionate about development and design, open source, comic books, *NIX-like operating systems, loud music, accessibility, mutual aid, equity, and caffeine.
+I'm Timothy Merritt – a developer, writer, and musician. I'm passionate about ✨ code and design, 🔓 open source, 🦸 comic books, 🖥️ *NIX-like operating systems, 🎸 loud music, 🦻🏻🦯 equitable accessibility, ✊ mutual aid, and ☕ caffeine. 
 
 Languages             |  Stats
 :-------------------------:|:-------------------------:
