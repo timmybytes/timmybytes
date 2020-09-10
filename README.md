@@ -1,6 +1,10 @@
 # Hi there!
 
-I'm Timothy Merritt – a developer, writer, and musician. I'm passionate about 
+My Languages             |  My Stats
+:-------------------------:|:-------------------------:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmybytes&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  |  ![timmybytes's github stats](https://github-readme-stats.vercel.app/api?username=timmybytes&show_icons=true&theme=onedark )
+
+I'm Timothy Merritt – a developer, writer, and musician. I'm passionate about...
 - ✨ code and design
 - 🔓 open source
 - 🦸 comic books
@@ -10,9 +14,7 @@ I'm Timothy Merritt – a developer, writer, and musician. I'm passionate about
 - ✊ mutual aid
 - ☕ caffeine. 
 
-Languages             |  Stats
-:-------------------------:|:-------------------------:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmybytes&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  |  ![timmybytes's github stats](https://github-readme-stats.vercel.app/api?username=timmybytes&show_icons=true&theme=onedark )
+
 
 <!--
 **timmybytes/timmybytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
