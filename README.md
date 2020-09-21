@@ -43,8 +43,7 @@
 </p>
 
 <p>
+  <!-- Made with https://github.com/anuraghazra/github-readme-stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=timmybytes&show_icons=true" alt="Timothy Merritt's Github Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmybytes&layout=compact" />
 </p>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmybytes&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
