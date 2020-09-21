@@ -1,6 +1,5 @@
 <div>
-  <h1 align="center">Hi there!</h1>
-  <h2 align="center">I'm Timothy Merritt</h2>
+  <img src="https://raw.githubusercontent.com/timmybytes/timmybytes-website/gh-pages/img/timmybytes_header.png" alt="timmybytes logo" />
   <p align="center">
     <a href="https://timmybytes.com">
       <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Ftimmybytes.com" />
