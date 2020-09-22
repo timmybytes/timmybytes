@@ -44,6 +44,7 @@
 
 <p>
   <!-- Made with https://github.com/anuraghazra/github-readme-stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=timmybytes&show_icons=true" alt="Timothy Merritt's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmybytes&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=timmybytes&bg_color=ee6868&text_color=1d1d1d&show_icons=true&hide_title=true&icon_color=eff3ff" alt="Timothy Merritt's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmybytes&bg_color=ee6868&text_color=1d1d1d&langs_count=10&hide_title=true&icon_color=eff3ff&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&repo=timmybytes-website& bg_color=ee6868&text_color=1d1d1d&icon_color=eff3ff" />
 </p>
