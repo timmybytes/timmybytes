@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Loud_Music-Yes-success" alt="Loud Music Badge" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Operating_system#Unix_and_Unix-like_operating_systems">
-    <img src="https://img.shields.io/badge/*nix_Systems-Love-pink" alt="Nix Systems Badge" />
+    <img src="https://img.shields.io/badge/*nix_Systems-Loves-pink" alt="Nix Systems Badge" />
   </a>
 </p>
 <p align="center">
