@@ -42,8 +42,11 @@
   <img src="https://img.shields.io/badge/Webpack-Learning-orange?logo=webpack" alt="Webpack Badge" />
 </p>
 
+<details>
+<summary>Stats</summary>
 <p>
   <!-- Made with https://github.com/anuraghazra/github-readme-stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=timmybytes&bg_color=ee6868&text_color=1d1d1d&show_icons=true&hide_title=true&icon_color=eff3ff" alt="Timothy Merritt's Github Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmybytes&bg_color=ee6868&text_color=1d1d1d&langs_count=10&hide_title=true&icon_color=eff3ff&layout=compact" />
 </p>
+</details>
