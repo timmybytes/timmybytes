@@ -29,20 +29,15 @@
   <img src="https://img.shields.io/badge/Python-Proficient-success?logo=python" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Bash-Proficient-success?logo=gnu-bash" alt="Bash Badge" />
   <img src="https://img.shields.io/badge/Git-Proficient-success?logo=git" alt="Git Badge" />
-  <img src="https://img.shields.io/badge/Linux-Proficient-success?logo=linux" alt="Linux Badge" />
-  <img src="https://img.shields.io/badge/Prettier-Proficient-success?logo=prettier" alt="Prettier Badge" />
-  <img src="https://img.shields.io/badge/Markdown-Proficient-success?logo=markdown" alt="Markdown Badge" />
   
   <img src="https://img.shields.io/badge/React-Comfortable-yellow?logo=react" alt="React Badge" />
   <img src="https://img.shields.io/badge/Node-Comfortable-yellow?logo=node.js" alt="Node Badge" />
-  <img src="https://img.shields.io/badge/Lighthouse-Comfortable-yellow?logo=lighthouse" alt="Lighthouse Badge" />
-  <img src="https://img.shields.io/badge/Material--UI-Comfortable-yellow?logo=material-ui" alt="Material-UI Badge" />
 
   <img src="https://img.shields.io/badge/Jest-Learning-orange?logo=jest" alt="Jest Badge" />
   <img src="https://img.shields.io/badge/Webpack-Learning-orange?logo=webpack" alt="Webpack Badge" />
 </p>
 
-<details>
+<details open>
 <summary>Stats</summary>
 <p>
   <!-- Made with https://github.com/anuraghazra/github-readme-stats -->
