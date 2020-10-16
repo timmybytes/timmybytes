@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/*nix_Systems-Loves-pink" alt="Nix Systems Badge" />
   </a>
 </p>
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-Proficient-success?logo=html5" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-Proficient-success?logo=css3" alt="CSS3 Badge" />
@@ -29,19 +30,21 @@
   <img src="https://img.shields.io/badge/Python-Proficient-success?logo=python" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Bash-Proficient-success?logo=gnu-bash" alt="Bash Badge" />
   <img src="https://img.shields.io/badge/Git-Proficient-success?logo=git" alt="Git Badge" />
-  
   <img src="https://img.shields.io/badge/React-Comfortable-yellow?logo=react" alt="React Badge" />
   <img src="https://img.shields.io/badge/Node-Comfortable-yellow?logo=node.js" alt="Node Badge" />
-
   <img src="https://img.shields.io/badge/Jest-Learning-orange?logo=jest" alt="Jest Badge" />
   <img src="https://img.shields.io/badge/Webpack-Learning-orange?logo=webpack" alt="Webpack Badge" />
 </p>
+-->
 
+<!--
 <details open>
 <summary>Stats</summary>
-<p>
-  <!-- Made with https://github.com/anuraghazra/github-readme-stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=timmybytes&bg_color=ee6868&text_color=1d1d1d&show_icons=true&hide_title=true&icon_color=eff3ff" alt="Timothy Merritt's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmybytes&bg_color=ee6868&text_color=1d1d1d&langs_count=10&hide_title=true&icon_color=eff3ff&layout=compact" />
+-->
+<p align="center">
+  <a href="#">
+    <!-- Made with https://github.com/anuraghazra/github-readme-stats -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=timmybytes&bg_color=ee6868&text_color=1d1d1d&show_icons=true&hide_title=true&icon_color=eff3ff" alt="Timothy Merritt's Github Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmybytes&langs_count=6&bg_color=ee6868&text_color=1d1d1d&langs_count=10&hide_title=true&icon_color=eff3ff&layout=compact" />
+  </a>
 </p>
-</details>
