@@ -15,11 +15,11 @@ I'm a web developer passionate about open source and accessibility.
     <a href="https://github.com/timmybytes/bat-slider">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=bat-slider" />  
     </a>
-    <a href="https://github.com/timmybytes/splate">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=splate" />
-    </a>
     <a href="https://github.com/timmybytes/timmybytes-template">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=timmybytes-template" />
+    </a>
+    <a href="https://github.com/timmybytes/splate">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=splate" />
     </a>
     <a href="https://github.com/timmybytes/color-chooser">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=color-chooser" />  
