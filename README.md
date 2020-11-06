@@ -12,8 +12,8 @@ I'm a web developer passionate about open source and accessibility.
   </p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=resume" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=bat-slider" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=splate" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=bat-slider" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=timmybytes-template" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=color-chooser" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=dotfiles" />
