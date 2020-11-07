@@ -13,19 +13,19 @@ I'm a web developer passionate about open source and accessibility.
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=resume" />
     </a> -->
     <a href="https://github.com/timmybytes/bat-slider">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=bat-slider" />  
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=nord&repo=bat-slider" />  
     </a>
     <a href="https://github.com/timmybytes/timmybytes-template">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=timmybytes-template" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=nord&repo=timmybytes-template" />
     </a>
     <a href="https://github.com/timmybytes/splate">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=splate" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=nord&repo=splate" />
     </a>
     <a href="https://github.com/timmybytes/color-chooser">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=color-chooser" />  
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=nord&repo=color-chooser" />  
     </a>
     <a href="https://github.com/timmybytes/dotfiles">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=dotfiles" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=nord&repo=dotfiles" />
     </a>
   </p>
 </div>
