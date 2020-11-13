@@ -4,12 +4,10 @@ I'm a web developer passionate about open source and accessibility.
 
 ## Eat, Sleep, Code :coffee: :rocket: :computer:
 
-<figure>
-  <embed src="https://wakatime.com/share/@timmybytes/d7879100-a5f2-4c1a-b24c-6e5786b7eb33.svg"></embed>
-</figure>
 
 <div>
   <p align="center">
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@timmybytes/04fc04aa-0d00-4fa9-af1b-adc5bd48cdeb.png" /></a>
     <!-- Made with https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=timmybytes&show_icons=true&include_all_commits=true&line_height=35&custom_title=Shameless Stats&theme=slateorange" alt="Timothy Merritt's Github Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmybytes&langs_count=5&langs_count=5&hide_title=true&theme=slateorange" />
