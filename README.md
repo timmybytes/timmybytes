@@ -4,6 +4,10 @@ I'm a web developer passionate about open source and accessibility.
 
 ## Eat, Sleep, Code :coffee: :rocket: :computer:
 
+<figure>
+  <embed src="https://wakatime.com/share/@timmybytes/d7879100-a5f2-4c1a-b24c-6e5786b7eb33.svg"></embed>
+</figure>
+
 <div>
   <p align="center">
     <!-- Made with https://github.com/anuraghazra/github-readme-stats -->
