@@ -38,7 +38,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=dotfiles" />
     </a>
     <a href="https://github.com/timmybytes/OMGWDYD">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=dotfiles" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=OMGWDYD" />
     </a>
   </p>
 </div>
