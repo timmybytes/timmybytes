@@ -22,9 +22,6 @@
 <div>
   <h2>Projects</h2>
   <p align="center">
-    <a href="https://github.com/timmybytes/timmybytes-website">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=timmybytes-website" />  
-    </a>
     <a href="https://github.com/timmybytes/bat-slider">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=bat-slider" />  
     </a>
@@ -42,6 +39,9 @@
     </a>
     <a href="https://github.com/timmybytes/OMGWDYD">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=OMGWDYD" />
+    </a>
+    <a href="https://github.com/timmybytes/timmybytes-website">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=timmybytes-website" />  
     </a>
     <a href="https://github.com/timmybytes/Hank_Math">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=Hank_Math" />
