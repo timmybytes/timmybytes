@@ -11,7 +11,7 @@
   </p>
 </div>
 <div>
-  <h2>Stats!!</h2>
+  <h2>Stats!</h2>
   <p align="center">
     <img src="https://wakatime.com/share/@timmybytes/108458b4-7758-4244-aaa6-4444515e5771.png" alt="Bar graph of coding activity over last seven days" />
     <!-- Made with https://github.com/anuraghazra/github-readme-stats -->
