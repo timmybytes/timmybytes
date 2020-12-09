@@ -22,8 +22,8 @@
 <div>
   <h2>Projects</h2>
   <p align="center">
-    <a href="https://github.com/timmybytes/bat-slider">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=bat-slider" />  
+    <a href="https://github.com/timmybytes/resolute-apparel">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=resolute-apparel" />
     </a>
     <a href="https://github.com/timmybytes/timmybytes-template">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=timmybytes-template" />
@@ -37,8 +37,8 @@
     <a href="https://github.com/timmybytes/dotfiles">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=dotfiles" />
     </a>
-    <a href="https://github.com/timmybytes/OMGWDYD">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=OMGWDYD" />
+    <a href="https://github.com/timmybytes/bat-slider">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=bat-slider" />  
     </a>
     <a href="https://github.com/timmybytes/timmybytes-website">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=timmybytes-website" />  
