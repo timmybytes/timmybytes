@@ -13,7 +13,7 @@
 <div>
   <h2>Stats!</h2>
   <p align="center">
-    <img src="https://wakatime.com/share/@timmybytes/108458b4-7758-4244-aaa6-4444515e5771.png" alt="Bar graph of coding activity over last seven days" />
+<!--     <img src="https://wakatime.com/share/@timmybytes/108458b4-7758-4244-aaa6-4444515e5771.png" alt="Bar graph of coding activity over last seven days" /> -->
     <!-- Made with https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=timmybytes&show_icons=true&include_all_commits=true&line_height=35&custom_title=Shameless Stats&theme=slateorange" alt="Timothy Merritt's Github Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmybytes&langs_count=5&langs_count=5&hide_title=true&theme=slateorange" />
