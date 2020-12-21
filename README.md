@@ -1,6 +1,7 @@
 <div>
+  <img src="https://raw.githubusercontent.com/timmybytes/timmybytes/main/tri-banner.png" alt="pink, green, and blue squares" />
   <h1>Hi! I'm Timothy Merritt :wave:</h1>
-  <p>I'm a developer passionate about open source, accessibility, and equity in tech.</p>
+  <p>I'm a developer, writer, and musician. I’m passionate about building for the web, fostering community in the tech industry, and learning in public.</p>
   <p>You can see my featured projects below, check out my writing on DEV, follow me on Twitter, or connect with me on LinkedIn. Thanks for stopping by!</p>
 </div>
 <div>
