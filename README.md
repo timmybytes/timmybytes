@@ -15,36 +15,37 @@
   <p align="center">
 <!--     <img src="https://wakatime.com/share/@timmybytes/108458b4-7758-4244-aaa6-4444515e5771.png" alt="Bar graph of coding activity over last seven days" /> -->
     <!-- Made with https://github.com/anuraghazra/github-readme-stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=timmybytes&show_icons=true&include_all_commits=true&line_height=35&custom_title=Shameless Stats&theme=slateorange" alt="Timothy Merritt's Github Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmybytes&langs_count=5&langs_count=5&hide_title=true&theme=slateorange" />
+    <!-- Palette: Blue=98C4EF, Pink=F5668C, Green=BAEA93, Black=333333, White=F6F6F6-->
+    <img src="https://github-readme-stats.vercel.app/api?username=timmybytes&show_icons=true&include_all_commits=true&line_height=35&custom_title=Shameless Stats&bg_color=333333&text_color=98C4EF&title_color=F5668C&icon_color=BAEA93" alt="Timothy Merritt's Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmybytes&langs_count=5&langs_count=5&hide_title=true&bg_color=333333&text_color=98C4EF&title_color=F5668C&icon_color=BAEA93" />
   </p>
 </div>
 <div>
   <h2>Projects</h2>
   <p align="center">
     <a href="https://github.com/timmybytes/resolute-apparel">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=resolute-apparel" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=F5668C&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=resolute-apparel" />
     </a>
     <a href="https://github.com/timmybytes/timmybytes-template">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=timmybytes-template" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=98C4EF&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=timmybytes-template" />
     </a>
     <a href="https://github.com/timmybytes/splate">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=splate" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=BAEA93&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=splate" />
     </a>
     <a href="https://github.com/timmybytes/color-chooser">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=color-chooser" />  
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=F5668C&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=color-chooser" />  
     </a>
     <a href="https://github.com/timmybytes/dotfiles">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=dotfiles" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=98C4EF&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=dotfiles" />
     </a>
     <a href="https://github.com/timmybytes/bat-slider">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=bat-slider" />  
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=BAEA93&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=bat-slider" />  
     </a>
     <a href="https://github.com/timmybytes/timmybytes-website">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=timmybytes-website" />  
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=F5668C&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=timmybytes-website" />  
     </a>
     <a href="https://github.com/timmybytes/Hank_Math">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&theme=slateorange&repo=Hank_Math" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=98C4EF&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=Hank_Math" />
     </a>
   </p>
 </div>
