@@ -1,7 +1,9 @@
 <div>
   <img src="https://raw.githubusercontent.com/timmybytes/timmybytes/main/tri-banner.png" alt="pink, green, and blue squares" />
   <h1>Hi! I'm Timothy Merritt :wave:</h1>
-  <p>I'm a developer, writer, and musician. I’m passionate about building for the web, fostering community in the tech industry, and learning in public.</p>
+  <p>I'm a developer, designer, writer, musician... let’s just call me <em>busy</em>.</p> 
+  <p>I’m deeply passionate about creating for the web, and the way in which we can all be connected through it. I love learning, and I’m one of those people that doesn’t so much have hobbies as intense pursuits that become tools in a multidisciplinary skill set.</p>
+  <p>This is where my interest in development allows me to bring all my skills to bear: from concept to deployment, I’m engaged in each stage in the process. Whether that’s creating style guides, designing mock-ups, developing and creating content for functional websites and apps, or employing DevOps best practices in CI/CD workflows, I love to work in all aspects of the process!</p>
   <p>You can see my featured projects below, check out my writing on DEV, follow me on Twitter, or connect with me on LinkedIn. Thanks for stopping by!</p>
 </div>
 <div>
