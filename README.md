@@ -29,8 +29,8 @@
     <a href="https://github.com/timmybytes/resolute-apparel">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=F5668C&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=resolute-apparel" />
     </a>
-    <a href="https://github.com/timmybytes/timmybytes-template">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=98C4EF&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=timmybytes-template" />
+    <a href="https://github.com/timmybytes/rational-design">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=98C4EF&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=rational-design" />
     </a>
     <a href="https://github.com/timmybytes/splate">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=BAEA93&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=splate" />
