@@ -3,7 +3,7 @@
   <h1>Hi! I'm Timothy Merritt :wave:</h1>
   <p>I'm a developer, designer, writer, musician... let’s just say I’m <em>busy</em>.</p>
   <p>I’m especially passionate about creating for the web, where I put my multidisciplinary skills to bear from concept to deployment. I enjoy making style guides, designing mock- ups, developing and creating websites and web apps, and employing DevOps best practices in CI/CD workflows.</p>
-  <p>I’m currently proficient in: HTML, CSS, SASS, JS (ES6+), React (with Hooks, state, etc.), git,  Bash, Webpack, NPM, ESLint, Prettier, Figma, InDesign, and Photoshop, and I’m always learning more technologies and methods to improve my practices.</p>
+  <p>I’m currently proficient in: HTML, CSS, SASS, JS (ES6+), React (with Hooks, state, etc.), git,  Bash, Webpack, NPM, ESLint, Prettier, Figma, InDesign, and Photoshop, and I’m always learning more technologies and methods to improve my practices. I’m a seasoned team leader, trainer, mentor, and collaborator in high-impact teams and inter-departmental operations, and I love to share my knowledge for the benefit of others whenever I can.</p>
   <p>I'm looking for new roles and freelance opportunities, so if you’re interested is speaking with me please send a message through my <a href="https://timmybytes.com/pages/contact.html">Contact</a> page.</p>
   <p>You can see my featured projects below, check out my writing on DEV, follow me on Twitter, or connect with me on LinkedIn. Thanks for stopping by!</p>
 </div>
