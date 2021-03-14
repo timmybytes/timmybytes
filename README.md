@@ -20,7 +20,6 @@
     <!-- Made with https://github.com/anuraghazra/github-readme-stats -->
     <!-- Palette: Blue=98C4EF, Pink=F5668C, Green=BAEA93, Black=333333, White=F6F6F6-->
     <img src="https://github-readme-stats.vercel.app/api?username=timmybytes&show_icons=true&include_all_commits=true&line_height=35&custom_title=GitHub Stats&bg_color=333333&text_color=98C4EF&title_color=F5668C&icon_color=BAEA93" alt="Timothy Merritt's Github Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmybytes&langs_count=5&langs_count=5&hide_title=true&bg_color=333333&text_color=98C4EF&title_color=F5668C&icon_color=BAEA93" />
   </p>
 </div>
 <div>
