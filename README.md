@@ -26,29 +26,32 @@
 <div>
   <h2>Projects</h2>
   <p align="center">
+    <a href="https://github.com/timmybytes/timmybytes-blog">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=F5668C&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=timmybytes-blog" />
+    </a>
     <a href="https://github.com/timmybytes/resolute-apparel">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=F5668C&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=resolute-apparel" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=98C4EF&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=resolute-apparel" />
     </a>
     <a href="https://github.com/timmybytes/rational-design">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=98C4EF&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=rational-design" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=BAEA93&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=rational-design" />
     </a>
     <a href="https://github.com/timmybytes/splate">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=BAEA93&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=splate" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=F5668C&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=splate" />
     </a>
     <a href="https://github.com/timmybytes/color-chooser">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=F5668C&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=color-chooser" />  
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=98C4EF&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=color-chooser" />  
     </a>
     <a href="https://github.com/timmybytes/dotfiles">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=98C4EF&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=dotfiles" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=BAEA93&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=dotfiles" />
     </a>
     <a href="https://github.com/timmybytes/bat-slider">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=BAEA93&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=bat-slider" />  
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=F5668C&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=bat-slider" />  
     </a>
     <a href="https://github.com/timmybytes/timmybytes-website">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=F5668C&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=timmybytes-website" />  
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=98C4EF&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=timmybytes-website" />  
     </a>
     <a href="https://github.com/timmybytes/Hank_Math">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=98C4EF&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=Hank_Math" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=BAEA93&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=Hank_Math" />
     </a>
   </p>
 </div>
