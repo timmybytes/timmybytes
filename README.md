@@ -1,11 +1,24 @@
 <div>
-  <img src="https://raw.githubusercontent.com/timmybytes/timmybytes-blog/main/public/images/timmybytes-Plain-Business-OG-Card.png" alt="timmybytes logo card" />
-  <h1>Hi! I'm Timothy Merritt :wave:</h1>
-  <p>I’m a software developer with a background in design, music, and critical analysis. I’m especially passionate about creating for the web, where I put my multidisciplinary skills to bear from concept to deployment. I enjoy making style guides, designing mock- ups, developing and creating websites and web apps, and employing DevOps best practices in CI/CD workflows.</p>
-  <p>I’m currently proficient in: HTML, CSS, SASS, JS (ES6+), React (with Hooks, state, etc.), git, Bash, Webpack, NPM, ESLint, Prettier, Figma, InDesign, and Photoshop, and I’m always learning more technologies and methods to improve my practices. I’m a seasoned team leader, trainer, mentor, and collaborator, and I'm currently looking for new development roles and freelance opportunities.</p>
-  <p>If you’re interested is speaking with me please feel free to send a message through my <a href="https://timmybytes.com/pages/contact.html">Contact</a> page, or connect with me on <a href="https://www.linkedin.com/in/timmybytes">LinkedIn<a> or <a href="https://twitter.com/timmybytes">Twitter</a>.</p>
-    <p>You can see some of my featured projects below! Thanks for stopping by!</p>
-</div>
+  <img src="timmybytes.svg" alt="timmybytes logo" />
+
+Hi, I'm Tim. I’m a **multidisciplinarian**, passionate about exploration and experimentation in a variety of fields. I thrive on using my technical and creative skill set to solve challenges and pursue lifelong learning.
+
+<h2><img src="developer.svg"  alt="developer heading" /></h2>
+
+As a developer, I work with HTML, CSS, and React to create frontend applications, as well as a variety of other tools and frameworks. I’m also partial to working with the command line, and automating tasks with shell scripts.
+
+<h2><img src="designer.svg" alt="designer heading" /></h2>
+
+I’m passionate about clean, meaningful design to communicate ideas in the simplest ways, with experience creating logos and branding, graphics, typographically-focused layouts, and album artwork.
+
+<h2><img src="writer.svg" alt="writer heading" /></h2>
+
+I’ve written and presented academic literary criticism, media reviews and studies, technical documentation, product copy, and blog posts over the years. You can keep up with my current writing at my [blog](https://timmybytes.com/blog).
+
+<h2><img src="musician.svg" alt="musician heading" /></h2>
+
+For nearly twenty years I’ve been a songwriter, collaborator, performer, and recording musician. I’m currently part of [Animal Politik](https://animalpolitik.org) as a lead songwriter, singer, and guitarist, and tinker with other instrumentation.
+<hr />
 <div>
   <p align="center">
     <a href="https://dev.to/timmybytes"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="DEV icon" width="64px" height="auto" /></a>
@@ -14,11 +27,8 @@
   </p>
 </div>
 <div>
-  <h2>Stats!</h2>
+  <h2>Activity</h2>
   <p align="center">
-<!--     <img src="https://wakatime.com/share/@timmybytes/108458b4-7758-4244-aaa6-4444515e5771.png" alt="Bar graph of coding activity over last seven days" /> -->
-    <!-- Made with https://github.com/anuraghazra/github-readme-stats -->
-    <!-- Palette: Blue=98C4EF, Pink=F5668C, Green=BAEA93, Black=333333, White=F6F6F6-->
     <img src="https://github-readme-stats.vercel.app/api?username=timmybytes&show_icons=true&include_all_commits=true&line_height=35&custom_title=GitHub Stats&bg_color=333333&text_color=98C4EF&title_color=F5668C&icon_color=BAEA93" alt="Timothy Merritt's Github Stats" />
   </p>
 </div>
@@ -36,12 +46,6 @@
     </a>
         <a href="https://github.com/timmybytes/dotfiles">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=F5668C&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=dotfiles" />
-    </a>
-    <a href="https://github.com/timmybytes/color-chooser">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=98C4EF&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=color-chooser" />  
-    </a>
-    <a href="https://github.com/timmybytes/timmybytes-website">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=BAEA93&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=timmybytes-website" />  
     </a>
   </p>
 </div>
