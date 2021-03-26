@@ -1,5 +1,5 @@
 <div>
-  <img src="https://raw.githubusercontent.com/timmybytes/timmybytes-blog/main/public/images/BasicSocialCard.png" alt="timmybytes logo card" />
+  <img src="https://raw.githubusercontent.com/timmybytes/timmybytes-blog/main/public/images/timmybytes-Plain-Business-OG-Card.png" alt="timmybytes logo card" />
   <h1>Hi! I'm Timothy Merritt :wave:</h1>
   <p>I’m a software developer with a background in design, music, and critical analysis. I’m especially passionate about creating for the web, where I put my multidisciplinary skills to bear from concept to deployment. I enjoy making style guides, designing mock- ups, developing and creating websites and web apps, and employing DevOps best practices in CI/CD workflows.</p>
   <p>I’m currently proficient in: HTML, CSS, SASS, JS (ES6+), React (with Hooks, state, etc.), git, Bash, Webpack, NPM, ESLint, Prettier, Figma, InDesign, and Photoshop, and I’m always learning more technologies and methods to improve my practices. I’m a seasoned team leader, trainer, mentor, and collaborator, and I'm currently looking for new development roles and freelance opportunities.</p>
