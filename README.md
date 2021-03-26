@@ -1,6 +1,8 @@
 <div>
 <div align="center">
+<a href="https://timmybytes.com">
   <img width="400px" src="timmybytes.svg" alt="timmybytes logo" />
+</a>
 </div>
 
 Hi, I'm Tim. I’m a **multidisciplinarian**, passionate about exploration and experimentation in a variety of fields. I thrive on using my technical and creative skill set to solve challenges and pursue lifelong learning.
