@@ -5,29 +5,15 @@
 </a>
 </div>
 
-Hi, I'm Tim. I’m a **multidisciplinarian**, passionate about exploration and experimentation in a variety of fields. I thrive on using my technical and creative skill set to solve challenges and pursue lifelong learning.
+## <img src="./hand_wave.gif" width="50px" /> Hi! I'm Tim.
 
-<h2>developer</h2>
+I’m a **multidisciplinarian** passionate about making, exploring, and experimenting in a variety of creative fields. I'm a developer primarily working with React, but I also do design work, writing, and music. You can learn more about me and read my writing at [timmybytes.com](https://timmybytes.com), or connect with me on the sites below!
 
-As a developer, I work with HTML, CSS, and React to create frontend applications, as well as a variety of other tools and frameworks. I’m also partial to working with the command line, and automating tasks with shell scripts.
-
-<h2>designer</h2>
-
-I’m passionate about clean, meaningful design to communicate ideas in the simplest ways, with experience creating logos and branding, graphics, typographically-focused layouts, and album artwork.
-
-<h2>writer</h2>
-
-I’ve written and presented academic literary criticism, media reviews and studies, technical documentation, product copy, and blog posts over the years. You can keep up with my current writing at my [blog](https://timmybytes.com/blog).
-
-<h2>musician</h2>
-
-For nearly twenty years I’ve been a songwriter, collaborator, performer, and recording musician. I’m currently part of [Animal Politik](https://animalpolitik.org) as a lead songwriter, singer, and guitarist, and tinker with other instrumentation.
-<hr />
 <div>
   <p align="center">
-    <a href="https://dev.to/timmybytes"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="DEV icon" width="64px" height="auto" /></a>
-    <a href="https://twitter.com/timmybytes"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffemiwiki-uploaded-files-thumb.s3.amazonaws.com%2Fb%2Fbb%2FTwitter_Social_Icon_Rounded_Square_Color.svg%2F1200px-Twitter_Social_Icon_Rounded_Square_Color.svg.png&f=1&nofb=1" alt="Twitter icon" width="64px" height="auto" /></a>
-    <a href="https://www.linkedin.com/in/timmybytes"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.flaticon.com%2Ficons%2Fpng%2F512%2F174%2F174857.png&f=1&nofb=1" alt="LinkedIn icon" width="64px" height="auto" /></a>
+    <a href="https://dev.to/timmybytes"><img src="./dev-community.svg" alt="DEV icon" width="auto" height="64px" /></a>
+    <a href="https://twitter.com/timmybytes"><img src="./twitter-square-color.svg" alt="Twitter icon" width="auto" height="64px" /></a>
+    <a href="https://www.linkedin.com/in/timmybytes"><img src="./linkedin-square-color.svg" alt="LinkedIn icon" width="auto" height="64px" /></a>
   </p>
 </div>
 <div>
