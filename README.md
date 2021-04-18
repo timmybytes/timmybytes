@@ -2,7 +2,7 @@
 <div align="center">
 <h1>
   <a href="https://timmybytes.com">
-    <img width="400px" src="timmybytes-Plain-Business-OG-Card.svg" alt="timmybytes logo" />
+    <img src="timmybytes-Plain-Business-OG-Card.svg" alt="timmybytes logo" />
   </a>
 </h1>
 </div>
