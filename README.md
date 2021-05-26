@@ -11,7 +11,11 @@
 <h3>Hi! I'm Tim<img src="./hand_wave.gif" width="50px" /></h3>
 </div>
 
-I’m a **multidisciplinarian** passionate about making, exploring, and experimenting in a variety of creative fields. I'm a developer primarily working with React, but I also do design work, writing, and music. You can learn more about me and read my writing at [timmybytes.com](https://timmybytes.com), or connect with me on the sites below!
+I’m a **multidisciplinarian** passionate about making, exploring, and
+experimenting in a variety of creative fields. I'm a developer primarily working
+with React, but I also do design work, writing, and music. You can learn more
+about me and read my writing at [timmybytes.com](https://timmybytes.com), or
+connect with me on the sites below!
 
 <div>
   <p align="center">
@@ -23,23 +27,23 @@ I’m a **multidisciplinarian** passionate about making, exploring, and experime
 <div>
   <h2>Activity</h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=timmybytes&show_icons=true&include_all_commits=true&line_height=35&custom_title=GitHub Stats&bg_color=333333&text_color=98C4EF&title_color=F5668C&icon_color=BAEA93" alt="Timothy Merritt's Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=timmybytes&show_icons=true&include_all_commits=true&line_height=35&custom_title=GitHub Stats&bg_color=ffdf85&text_color=333333&title_color=333333&icon_color=333333" alt="Timothy Merritt's Github Stats" />
   </p>
 </div>
 <div>
   <h2>Projects</h2>
   <p align="center">
     <a href="https://github.com/timmybytes/timmybytes-blog">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=F5668C&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=timmybytes-blog" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=ff90ad&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=timmybytes-blog" />
     </a>
-    <a href="https://github.com/timmybytes/resolute-apparel">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=98C4EF&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=resolute-apparel" />
+    <a href="https://github.com/timmybytes/animal-politik-nextjs">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=ffdf85&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=animal-politik-nextjs" />
     </a>
     <a href="https://github.com/timmybytes/rational-design">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=BAEA93&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=rational-design" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=b8dcff&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=rational-design" />
     </a>
         <a href="https://github.com/timmybytes/dotfiles">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=F5668C&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=dotfiles" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=caffbf&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=dotfiles" />
     </a>
   </p>
 </div>
