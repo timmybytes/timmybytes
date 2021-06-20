@@ -37,7 +37,7 @@ connect with me on the sites below!
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=ff90ad&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=timmybytes-blog" />
     </a>
     <a href="https://github.com/timmybytes/animal-politik-nextjs">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=ffdf85&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=animal-politik-nextjs" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=ffdf85&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=animal-politik" />
     </a>
     <a href="https://github.com/timmybytes/rational-design">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=b8dcff&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=rational-design" />
