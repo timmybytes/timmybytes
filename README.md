@@ -34,10 +34,10 @@ connect with me on the sites below!
   <h2>Projects</h2>
   <p align="center">
     <a href="https://github.com/timmybytes/main-course">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=ff90ad&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=timmybytes-blog" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=ff90ad&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=main-course" />
     </a>
     <a href="https://github.com/timmybytes/timmybytes-blog">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=ffdf85&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=animal-politik" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=ffdf85&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=timmybytes-blog" />
     </a>
     <a href="https://github.com/timmybytes/rational-design">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=timmybytes&bg_color=b8dcff&text_color=333333&title_color=333333&icon_color=f6f6f6&repo=rational-design" />
