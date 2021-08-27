@@ -14,7 +14,8 @@ I'm a developer primarily working
 with React, but I also do design work, writing, and music. You can learn more
 about me and read my writing at [timmybytes.com](https://timmybytes.com), or
 connect with me on the sites below!
-
+  
+<!-- <img src="https://github.com/timmybytes/timmybytes/blob/main/github-metrics.svg" alt="Metrics" width="100%"> -->
 <div>
   <p align="center">
     <a href="https://dev.to/timmybytes"><img src="./dev-community.svg" alt="DEV icon" width="auto" height="64px" /></a>
