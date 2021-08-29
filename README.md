@@ -14,8 +14,7 @@ I'm a developer primarily working
 with React, but I also do design work, writing, and music. You can learn more
 about me and read my writing at [timmybytes.com](https://timmybytes.com), or
 connect with me on the sites below!
-  
-<!-- <img src="https://github.com/timmybytes/timmybytes/blob/main/github-metrics.svg" alt="Metrics" width="100%"> -->
+ 
 <div>
   <p align="center">
     <a href="https://dev.to/timmybytes"><img src="./dev-community.svg" alt="DEV icon" width="auto" height="64px" /></a>
@@ -23,9 +22,11 @@ connect with me on the sites below!
     <a href="https://www.linkedin.com/in/timmybytes"><img src="./linkedin-square-color.svg" alt="LinkedIn icon" width="auto" height="64px" /></a>
   </p>
 </div>
+
 <div>
-  <h2>Activity</h2>
+  <h2>Stats</h2>
   <p align="center">
+    <img src="https://github.com/timmybytes/timmybytes/blob/main/github-metrics.svg" alt="Metrics" width="100%"> 
     <img src="https://github-readme-stats.vercel.app/api?username=timmybytes&show_icons=true&include_all_commits=true&line_height=35&custom_title=GitHub Stats&bg_color=ffdf85&text_color=333333&title_color=333333&icon_color=333333" alt="Timothy Merritt's Github Stats" />
   </p>
 </div>
