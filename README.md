@@ -12,7 +12,7 @@
 </div>
 I'm a software developer primarily working
 with React, but I also do design work, writing, and music. You can learn more
-about me and read my writing at [timmybytes.com](https://timmybytes.com), or
+about me and read my writing at https://timmybytes.com, or
 connect with me on the sites below!
  
 <div>
