@@ -10,7 +10,7 @@
 <div align="center">
 <h3>Hi! I'm Tim<img src="./hand_wave.gif" width="50px" /></h3>
 </div>
-I'm a software developer primarily working
+I'm a frontend developer primarily working
 with React, but I also do design work, writing, and music. You can learn more
 about me and read my writing at https://timmybytes.com, or
 connect with me on the sites below!
