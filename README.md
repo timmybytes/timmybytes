@@ -7,12 +7,6 @@
 </h1>
 </div>
 
-<div align="center">
-<h3>Hi! I'm Tim<img src="./hand_wave.gif" width="50px" /></h3>
-</div>
-
-<p>I’m a passionate multidisciplinarian who loves building things with code.</p>
-
 <div>
   <p align="center">
     <a href="https://dev.to/timmybytes"><img src="./dev-community.svg" alt="DEV icon" width="auto" height="64px" /></a>
