@@ -1,4 +1,4 @@
-<div>
+
 <div align="center">
 <h1>
   <a href="https://timmybytes.com">
@@ -22,6 +22,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=timmybytes&bg_color=F9F4F5&show_icons=true&include_all_commits=true&line_height=35&custom_title=GitHub Stats" alt="Timothy Merritt's Github Stats" />
   </p>
 </div>
+
 <div>
   <h2>Projects</h2>
   <p align="center">
