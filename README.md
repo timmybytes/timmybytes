@@ -1,4 +1,4 @@
-
+<!-- TODO: Add new color palette -->
 <div align="center">
 <h1>
   <a href="https://timmybytes.com">
