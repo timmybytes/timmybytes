@@ -23,6 +23,7 @@
   </p>
 </div>
 
+<!-- 
 <div>
   <h2>Projects</h2>
   <p align="center">
@@ -40,3 +41,4 @@
     </a>
   </p>
 </div>
+-->
