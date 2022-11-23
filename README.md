@@ -18,8 +18,8 @@
 <div>
   <h2>Stats</h2>
   <p align="center">
+    <img src="https://github-readme-stats-rose-theta.vercel.app/api?username=timmybytes&bg_color=e9c46a&text_color=d44d5c&border_color=e9c46a&title_color=d44d5c&include_all_commits=true&count_private=true&line_height=22&text_bold=true&show_icons=true" alt="Timothy Merritt's Github Stats" width="100%" />
     <img src="https://github.com/timmybytes/timmybytes/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-    <img src="https://github-readme-stats-rose-theta.vercel.app/api?username=timmybytes&bg_color=F9F4F5&show_icons=true&include_all_commits=true&line_height=35&custom_title=GitHub Stats" alt="Timothy Merritt's Github Stats" />
   </p>
 </div>
 
