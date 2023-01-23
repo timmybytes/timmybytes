@@ -2,7 +2,7 @@
 <div align="center">
 <h1>
   <a href="https://timmybytes.com">
-    <img src="Card.png" alt="timmybytes logo" />
+    <img src="timmybytes-og.png" alt="timmybytes logo" />
   </a>
 </h1>
 </div>
@@ -23,7 +23,7 @@
   </p>
 </div>
 
-<!-- 
+<!--
 <div>
   <h2>Projects</h2>
   <p align="center">
