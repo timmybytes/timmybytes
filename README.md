@@ -10,7 +10,6 @@
 <div>
   <p align="center">
     <a href="https://dev.to/timmybytes"><img src="./dev-community.svg" alt="DEV icon" width="auto" height="64px" /></a>
-    <a href="https://twitter.com/timmybytes"><img src="./twitter-square-color.svg" alt="Twitter icon" width="auto" height="64px" /></a>
     <a href="https://www.linkedin.com/in/timmybytes"><img src="./linkedin-square-color.svg" alt="LinkedIn icon" width="auto" height="64px" /></a>
   </p>
 </div>
