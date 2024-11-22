@@ -21,27 +21,27 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="322.11099411318014" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="322.11099411318014" y="0" width="112.11310941797755" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="434.2241035311577" y="0" width="13.280464059169814" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="447.5045675903275" y="0" width="4.822074173129356" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="452.32664176345685" y="0" width="4.408915776170057" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="456.73555753962694" y="0" width="1.277076902339647" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="458.01263444196655" y="0" width="1.0764832824192148" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.0891177243858" y="0" width="0.9108822756142058" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="250.54528558747327" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="250.54528558747327" y="0" width="193.93563858711755" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="444.4809241745908" y="0" width="7.995862684349693" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="452.4767868589405" y="0" width="2.9032602151781792" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="455.3800470741187" y="0" width="2.654507024457289" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="458.034554098576" y="0" width="0.7688986998471508" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="458.80345279842317" y="0" width="0.6481258839956634" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.4515786824188" y="0" width="0.548421317581161" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TypeScript
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TypeScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
