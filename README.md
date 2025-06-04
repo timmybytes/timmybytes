@@ -4,7 +4,10 @@
   <a href="https://timmybytes.com">
     <img src="timmybytes-og.png" alt="timmybytes logo" />
   </a>
-    <img src="https://github-readme-stats-rose-theta.vercel.app/api?username=timmybytes&bg_color=e9c46a&text_color=d44d5c&border_color=e9c46a&title_color=d44d5c&include_all_commits=true&count_private=true&line_height=22&text_bold=true&show_icons=true" alt="Timothy Merritt's Github Stats" width="100%" />
+  <!-- RED: D14046 -->
+  <!-- WHITE: FFFCF4 -->
+  <!-- BLACK: 34333E -->
+    <img src="https://github-readme-stats-rose-theta.vercel.app/api?username=timmybytes&bg_color=FFFCF4&text_color=D14046&border_color=FFFCF4&title_color=34333E&include_all_commits=true&count_private=true&line_height=22&text_bold=true&show_icons=true" alt="Timothy Merritt's Github Stats" width="100%" />
     <img src="https://github.com/timmybytes/timmybytes/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 <div>
