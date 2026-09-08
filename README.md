@@ -7,8 +7,8 @@
   <!-- RED: D14046 -->
   <!-- WHITE: FFFCF4 -->
   <!-- BLACK: 34333E -->
-    <img src="https://github-readme-stats-rose-theta.vercel.app/api?username=timmybytes&bg_color=FFFCF4&text_color=D14046&border_color=FFFCF4&title_color=34333E&include_all_commits=true&count_private=true&line_height=22&text_bold=true&show_icons=true" alt="Timothy Merritt's Github Stats" width="100%" />
-    <img src="https://github.com/timmybytes/timmybytes/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+    <!-- <img src="https://github-readme-stats-rose-theta.vercel.app/api?username=timmybytes&bg_color=FFFCF4&text_color=D14046&border_color=FFFCF4&title_color=34333E&include_all_commits=true&count_private=true&line_height=22&text_bold=true&show_icons=true" alt="Timothy Merritt's Github Stats" width="100%" /> -->
+    <!-- <img src="https://github.com/timmybytes/timmybytes/blob/main/github-metrics.svg" alt="Metrics" width="100%"> -->
 </div>
 <div>
     <p align="center">
